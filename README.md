@@ -30,7 +30,7 @@ This project analyzes a sales dataset using Python to identify sales trends, cus
 Cognetix_Sales_Data_Analysis/
 │
 ├── analysis.ipynb
-├── sales_data_sample.csv
+├── Sales_Analyisis_Dataset.ipynb
 ├── requirements.txt
 ├── report.pdf
 └── images/
